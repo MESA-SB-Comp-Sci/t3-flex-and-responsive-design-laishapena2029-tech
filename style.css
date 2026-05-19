@@ -4,28 +4,28 @@
 header{
   /* Add height and width here */
   background-color: lightcyan;
-  text-align: center;
+  text: align 15px;center; 
 }
 
 .middle-section{
-  /* Add height and width here */
-  background-color: lightpink;
-  /* Add flex properties here */
+  20px 
+  background-color: lightcoral
+  flex-direction:  ;
 }
 
 aside{
-  /* Add height and width here */
+  80px 
   background-color: lightseagreen;
 }
 
 .image-section{
-  /* Add height and width here */
-  background-color: aliceblue;
+  20px 
+  background-color: aliceblue;   
   /* Add flex properties here */
   text-align: left;
 }
 
 footer{
-  /* Add height and width here */
+  85 p
   background-color: lime;
-}
+} 

@@ -2,30 +2,36 @@
   box-sizing: border-box;
 }
 header{
-  /* Add height and width here */
+  height: 20vh; 
+  
   background-color: lightcyan;
-  text: align 15px;center; 
+  text-align: center; 
 }
 
 .middle-section{
-  20px 
-  background-color: lightcoral
-  flex-direction:  ;
+  height: 65vh; 
+  width: 100% ;
+  background-color: red;
+  display:flex
 }
 
 aside{
-  80px 
+  height: 65vh;
+  width: 46%;
+
   background-color: lightseagreen;
 }
 
 .image-section{
-  20px 
+  height: 65vh; 
   background-color: aliceblue;   
-  /* Add flex properties here */
+  display:flex;
+  flex-direction: column;
   text-align: left;
 }
 
 footer{
-  85 p
   background-color: lime;
+  height: 15vh; 
+  width:100vw;
 } 
